@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Domaci3</string>
+    <string name="enter_your_note">Enter your note</string>
+    <string name="add_note">Add note</string>
+</resources>
